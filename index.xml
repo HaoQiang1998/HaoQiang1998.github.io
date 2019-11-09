@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>HaoQiang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright><lastBuildDate>Fri, 21 Jun 2019 19:22:04 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>HaoQiang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Online DAG Scheduling with On-demand Function Configuration in Edge Computing</title>
+      <link>/publication/my_publication/</link>
+      <pubDate>Fri, 21 Jun 2019 19:22:04 +0800</pubDate>
+      <guid>/publication/my_publication/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

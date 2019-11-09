@@ -5,12 +5,28 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright><lastBuildDate>Fri, 21 Jun 2019 19:22:04 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Edge Computing</title>
+      <link>/tags/edge-computing/</link>
+      <pubDate>Fri, 21 Jun 2019 19:22:04 +0800</pubDate>
+      <guid>/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Scheduling</title>
+      <link>/tags/online-scheduling/</link>
+      <pubDate>Fri, 21 Jun 2019 19:22:04 +0800</pubDate>
+      <guid>/tags/online-scheduling/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
