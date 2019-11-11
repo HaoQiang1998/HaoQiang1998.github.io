@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | HaoQiang</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Panlong Yang and Xiang-Yang Li (*equal contribution). WASA 2019 | HaoQiang</title>
+    <link>/authors/panlong-yang-and-xiang-yang-li-equal-contribution.-wasa-2019/</link>
+      <atom:link href="/authors/panlong-yang-and-xiang-yang-li-equal-contribution.-wasa-2019/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panlong Yang and Xiang-Yang Li (*equal contribution). WASA 2019</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright><lastBuildDate>Fri, 21 Jun 2019 19:22:04 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Panlong Yang and Xiang-Yang Li (*equal contribution). WASA 2019</title>
+      <link>/authors/panlong-yang-and-xiang-yang-li-equal-contribution.-wasa-2019/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/my_publication/</link>
       <pubDate>Fri, 21 Jun 2019 19:22:04 +0800</pubDate>
       <guid>/publication/my_publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Dispatching and Scheduling of Jobs with Heterogeneous Utilities in Edge Computing</title>
-      <link>/publication/publication-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/publication-2/</guid>
       <description></description>
     </item>
     

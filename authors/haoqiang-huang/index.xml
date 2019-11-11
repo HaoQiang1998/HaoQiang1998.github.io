@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haoqiang Huang* | HaoQiang</title>
+    <title>Haoqiang Huang | HaoQiang</title>
     <link>/authors/haoqiang-huang/</link>
       <atom:link href="/authors/haoqiang-huang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Haoqiang Huang*</description>
+    <description>Haoqiang Huang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright><lastBuildDate>Fri, 21 Jun 2019 19:22:04 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Haoqiang Huang*</title>
+      <title>Haoqiang Huang</title>
       <link>/authors/haoqiang-huang/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>/publication/my_publication/</link>
       <pubDate>Fri, 21 Jun 2019 19:22:04 +0800</pubDate>
       <guid>/publication/my_publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Dispatching and Scheduling of Jobs with Heterogeneous Utilities in Edge Computing</title>
+      <link>/publication/publication-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/publication-2/</guid>
       <description></description>
     </item>
     

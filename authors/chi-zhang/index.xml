@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi Zhang | HaoQiang</title>
+    <link>/authors/chi-zhang/</link>
+      <atom:link href="/authors/chi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chi Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Chi Zhang</title>
+      <link>/authors/chi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Online Dispatching and Scheduling of Jobs with Heterogeneous Utilities in Edge Computing</title>
+      <link>/publication/publication-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/publication-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
