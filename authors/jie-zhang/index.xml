@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Zhang | HaoQiang</title>
+    <link>/authors/jie-zhang/</link>
+      <atom:link href="/authors/jie-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jie Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Haoqiang Huang</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jie Zhang</title>
+      <link>/authors/jie-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Incentive Ratio in Manipulating on Probabilistic Serial Rule</title>
+      <link>/project/incentive-ratio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/incentive-ratio/</guid>
+      <description>&lt;p&gt;Probabilistic Serial rule is a one of the most prominent randomized allocation rules. However, it is not immune to manipulating behavior of agent. In this project, we try to characterize the extent to which an individual agent can increase its utility by strategic manipulation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

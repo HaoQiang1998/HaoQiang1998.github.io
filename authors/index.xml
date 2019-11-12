@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy</copyright><lastBuildDate>Fri, 21 Jun 2019 19:22:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Haoqiang Huang</copyright><lastBuildDate>Fri, 21 Jun 2019 19:22:04 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -58,7 +58,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a research assistant at the &lt;a href=&#34;http://itcs.shufe.edu.cn/&#34; target=&#34;_blank&#34;&gt;Institute of Theoretical Computer Science&lt;/a&gt; (ITCS) at Shanghai University of Finance and Economics mentored by Prof.&lt;a href=&#34;http://itcs.shufe.edu.cn/zihe/&#34; target=&#34;_blank&#34;&gt;Zihe Wang&lt;/a&gt; and Prof.&lt;a href=&#34;http://itcs.shufe.edu.cn/~zhtang/&#34; target=&#34;_blank&#34;&gt;Zhihao Tang&lt;/a&gt;.
-I received my BEng degree from &lt;a href=&#34;http://en.cs.ustc.edu.cn/&#34; target=&#34;_blank&#34;&gt;School of Computer Science and Technology&lt;/a&gt; at &lt;a href=&#34;http://en.ustc.edu.cn/&#34; target=&#34;_blank&#34;&gt;USTC&lt;/a&gt; in 2019.07.
+I received my B.Eng degree from &lt;a href=&#34;http://en.cs.ustc.edu.cn/&#34; target=&#34;_blank&#34;&gt;School of Computer Science and Technology&lt;/a&gt; at &lt;a href=&#34;http://en.ustc.edu.cn/&#34; target=&#34;_blank&#34;&gt;USTC&lt;/a&gt; in 2019.07.
 During my undergraduate study, I researched online scheduling theory under supervision of Prof.&lt;a href=&#34;http://staff.ustc.edu.cn/~hstan/homepage.html&#34; target=&#34;_blank&#34;&gt;Haisheng Tan&lt;/a&gt;.
 For more details, here is my &lt;a href=&#34;/files/CV.pdf&#34; target=&#34;_blank&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -73,10 +73,42 @@ For more details, here is my &lt;a href=&#34;/files/CV.pdf&#34; target=&#34;_bla
     </item>
     
     <item>
+      <title>etc.</title>
+      <link>/authors/etc./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/etc./</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>etc. Submitted</title>
       <link>/authors/etc.-submitted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/etc.-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jie Zhang</title>
+      <link>/authors/jie-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jie-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>with Liuyan Liu</title>
+      <link>/authors/with-liuyan-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/with-liuyan-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>with Zihe Wang</title>
+      <link>/authors/with-zihe-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/with-zihe-wang/</guid>
       <description></description>
     </item>
     

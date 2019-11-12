@@ -89,7 +89,19 @@
   </url>
   
   <url>
+    <loc>/authors/etc./</loc>
+  </url>
+  
+  <url>
     <loc>/authors/etc.-submitted/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/incentive-ratio/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jie-zhang/</loc>
   </url>
   
   <url>
@@ -97,11 +109,27 @@
   </url>
   
   <url>
+    <loc>/project/online-scheduling/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
   </url>
   
   <url>
+    <loc>/project/</loc>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/with-liuyan-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/with-zihe-wang/</loc>
   </url>
   
 </urlset>
