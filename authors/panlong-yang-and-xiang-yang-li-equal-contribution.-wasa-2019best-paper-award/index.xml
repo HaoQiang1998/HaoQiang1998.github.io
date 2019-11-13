@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panlong Yang and Xiang-Yang Li (*equal contribution). WASA 2019(**Best Paper Award**) | HaoQiang</title>
+    <link>/authors/panlong-yang-and-xiang-yang-li-equal-contribution.-wasa-2019best-paper-award/</link>
+      <atom:link href="/authors/panlong-yang-and-xiang-yang-li-equal-contribution.-wasa-2019best-paper-award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panlong Yang and Xiang-Yang Li (*equal contribution). WASA 2019(**Best Paper Award**)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Haoqiang Huang</copyright><lastBuildDate>Fri, 21 Jun 2019 19:22:04 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Panlong Yang and Xiang-Yang Li (*equal contribution). WASA 2019(**Best Paper Award**)</title>
+      <link>/authors/panlong-yang-and-xiang-yang-li-equal-contribution.-wasa-2019best-paper-award/</link>
+    </image>
+    
+    <item>
+      <title>Online DAG Scheduling with On-demand Function Configuration in Edge Computing</title>
+      <link>/publication/my_publication/</link>
+      <pubDate>Fri, 21 Jun 2019 19:22:04 +0800</pubDate>
+      <guid>/publication/my_publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
